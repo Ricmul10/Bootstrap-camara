@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+.row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.container-fluid {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}

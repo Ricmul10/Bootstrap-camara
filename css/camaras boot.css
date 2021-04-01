@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.container-fluid {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+
+.container {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+
+.navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

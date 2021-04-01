@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.container-fluid {
+	background-color: #f4e280
+}
+
+.carousel-item{
+	background-color: #f4e280
+}
+
+h5, p {
+	
+    color:#3F1102 ;	
+}
+
+#first {
+    color: #FFFFFF;
+}
